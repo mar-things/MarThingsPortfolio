@@ -37,12 +37,14 @@ section {
     padding: 20px;
     max-width: 900px;
     margin: auto;
+    display: none; /* Hide sections by default */
     opacity: 0;
     transform: translateY(30px);
     transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 }
 
 .fade-in {
+    display: block !important; /* Show the section when it’s selected */
     opacity: 1 !important;
     transform: translateY(0) !important;
 }
