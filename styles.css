@@ -38,9 +38,14 @@ section {
     max-width: 900px;
     margin: auto;
     display: none; /* Hide sections by default */
+    text-align: justify;
     opacity: 0;
     transform: translateY(30px);
     transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+section about {
+    width: 30%;
 }
 
 .fade-in {

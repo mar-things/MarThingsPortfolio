@@ -2,7 +2,7 @@
     {
         "title": "Self-Driving Robot",
         "description": "This is a project that has gonne through several stages, starting repurposing a broken RC car, all the way up to my own chasis desing, finally I decided to revisit one of my child passion of building legos and decided to addapt a lego to work with the existing embedded devices.",
-        
+        "image": "media/robotics-project1/project1.jpeg",
         "labels": ["Robotics","Embedded Systems"]
     },
     {
