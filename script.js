@@ -16,11 +16,11 @@ document.addEventListener("DOMContentLoaded", function() {
                         const projectElement = document.createElement("div");
                         projectElement.classList.add("project");
                         projectElement.innerHTML = `
-                            <a href="project.html?id=${index}">
-                                <img src="${project.image}" alt="${project.title}">
-                                <h3>${project.title}</h3>
-                                <p>${project.description}</p>
+                            
+                            <a href="project.html?id=${index}"><img src="${project.image}" alt="${project.title}">${project.title}
                             </a>
+                            <p>${project.description}</p>
+                            
                         `;
                         sections[label].appendChild(projectElement);
                     }
