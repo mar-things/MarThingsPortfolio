@@ -1,0 +1,167 @@
+[
+   {
+        "title": "Self-Driving Robot",
+        "description": "This is a project that has gonne through several stages, starting repurposing a broken RC car, all the way up to my own chasis desing, finally I decided to revisit one of my child passion of building legos and decided to addapt a lego to work with the existing embedded devices.",
+        "detailedDescription": "Esta es la descripcion interna de cada projecto",
+        "image": "media/Projects/1.SelfDrivingCar/Screenshot 2025-04-24 225518.png",
+        "labels": ["Robotics","Embedded Systems"]
+    },
+    {
+        "title": "ESP32 Smart Light 'Death Star'",
+        "description": "Smart home lighting system programed using ESPHome and controlled via HomeAssistant.",
+        "image": "media/Projects/ProjectsEdited/IMG_5903.jpg",
+        "labels": ["Home Automation", "Embedded Systems"]
+    },
+    {
+        "title": "Load Cell tester / Operational Amplifier",
+        "description": "3D printed rig to test a loadcell using an operational amplifier.",
+        "image": "media/Projects/ProjectsEdited/IMG_5876.jpg",
+        "labels": ["Embedded Systems", "Home Automation"]
+    },
+    {
+        "title": "Enderwire - 3D Printer conversion",
+        "description": "This was the process my ender 3 went through to keep up to date, and be as good as new printers in the market, it now has 9 years.",
+        "image": "media/Projects/ProjectsEdited/IMG_5925.jpg",
+        "labels": ["Embedded Systems", "Robotics"]
+    },
+    {
+        "title": "HomeAssistant - Smart Home",
+        "description": "This is how a made my smart home and automated rutanary tasks.",
+        "image": "media/Projects/4.HomeAssistant/Screenshot 2025-04-24 231410.png",
+        "labels": ["Home Automation"]
+    },
+    {
+        "title": "MartinLoren Oscilloscope Manufacturing",
+        "description": "https://www.martinloren.com/hs40x-diy-oscilloscopes/",
+        "image": "media/Projects/ProjectsEdited/IMG_5912.jpg",
+        "labels": ["Embedded Systems", "Tools"]
+    },
+    {
+        "title": "Monitor Stand",
+        "description": "3D desing and Printing for monitor stand.",
+        "image": "media/Projects/2.MonitorStand/Screenshot 2025-04-24 225835.png",
+        "labels": ["Robotics"]
+    },
+    {
+        "title": "Dev boy board",
+        "description": "This is my biggest and greatest project so far, it is a development board for testing components, sensors, equipment on the go, without having to write code. On the other hand writing your own code for it is possible.",
+        
+        "labels": ["Embedded Systems", "Home Automation", "Robotics", "Tools"]
+    },
+    {
+        "title": "Home Server - Raspberry Pi",
+        "description": "This is one of the tools that connects most of the projects that I've worked with, it gives me services as home automation, home surveilance, smart devices control, NAS services, MQTT brokers, among others. It has evolved overtime, stating by running casaOS finally migrating to proxmox.",
+        "image": "media/Projects/5.HomeServer/Screenshot 2025-04-24 232428.png",
+        "labels": ["Embedded Systems", "Home Automation", "Tools"]
+    },
+    {
+        "title": "Frigate - Home Surveillance",
+        "description": "Service running on homeassistant to record and recognize movement on my frontyard.",
+        
+        "labels": ["Home Automation"]
+    },
+    {
+        "title": "NAS- Network Attached Storage using samba share and OpenVaultMedia (OMV)",
+        "description": "Ongoing project using radxa hat.",
+        "image": "media/Projects/ProjectsEdited/IMG_5834.jpg",
+        "labels": ["Embedded Systems", "Home Automation", "Tools"]
+    },
+    {
+        "title": "Desk Lightbar",
+        "description": "As I am working most of the time using my computer, I needed a monitor lightbar to releave the strain of the light on my eyes, however serching the market I realized they are super expensive, this led me to crate my own light bar using an ESP32-C3 mini board and neopixel LEDs, the rest was 3d Printed, possible rev2 upcoming.",
+        "image": "media/Projects/ProjectsEdited/IMG_5950.jpg",
+        "labels": ["Embedded Systems", "Home Automation"]
+    },
+    {
+        "title": "Custom wall mounted bedroom lamp",
+        "description": "Designed and 3D print a mount for a smart lightbulb, reused a broken screen's layers as a light diffuser.",
+        "image": "media/Projects/ProjectsEdited/IMG_5860.jpg",
+        "labels": ["Robotics", "Home Automation"]
+    },
+    {
+        "title": "Machine learning & Stock Market",
+        "description": "As my bachelors final project, I got into the ML and AI field to analyze the stock market and use it to make investment desitions.",
+        "image": "media/Projects/3.MachineLearning&StockMarket/Screenshot 2025-04-24 230414.png",
+        "labels": ["Robotics"]
+    },
+    {
+        "title": "e-sim Handbrake",
+        "description": "Created handbrake using standard parts, rev2 upcoming.",
+        "image": "media/Projects/ProjectsEdited/IMG_5872.jpg",
+        "labels": ["Robotics","Embedded Systems"]
+    },  
+    
+
+    {
+        "title": "Multimeter / Oscilloscope",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "TwoTrees TTC 450 pro - CNC",
+        "description": "CNC wood/softmetal 4axis engraver.",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "3D Printers",
+        "description": "EnderWire(previously Ender 3) & Elegoo Neptune 4 pro .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "Crimping Tools",
+        "description": "When working with embedded devices good crimping tools are a must therefore I have bought this CINLIN tool with multiple teeth for different type of crimps and connectors .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "Label Printer",
+        "description": "What a better way of keeping things in order by following industrial standards as 5S, assigning a place for all the tools helps me having a steady workflow, to accomplish this I use a Phomemo label printer, it doesn't require ink and is cheap and easy to use.",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "Solidworks & Fusion 360",
+        "description": "Great everyday tools both with their ups and downs .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "GeekForGeeks & 3SCHOOLS",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "Cube/espressif/eclipse/VS/Arduino ide's",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "Vs Code",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "PlatformIO",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "GIT",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    },
+    {
+        "title": "C/C++/Python/Java/js/sql/HTML/CSS/PHP/Arduino/ESP-IDF/Free",
+        "description": "fnirsi 2C23T digital multimeter with oscilloscope and signal genarator integrated .",
+        
+        "labels": ["Tools"]
+    }
+]

@@ -1,0 +1,150 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    transition: background 0.3s ease-in-out;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav {
+    background: #444;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 5px;
+    display: inline-block;
+    transition: background 0.3s ease;
+}
+
+nav a:hover {
+    background: #555;
+    border-radius: 5px;
+}
+
+section {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    display: none; /* Hide sections by default */
+    text-align: justify;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+}
+
+section about {
+    width: 30%;
+}
+
+.fade-in {
+    display: block !important; /* Show the section when it’s selected */
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+.project {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background: #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+.project img {
+    max-width: 30% ;
+    height: auto;
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+
+.project p {
+    text-align: justify;
+}
+
+.project::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.text {
+    display: inline-block;
+    text-align: left,justify;
+    
+    width: 70%;
+  }
+  
+.image {
+    float: right;
+    width: 25%;
+    border-radius: 5px;
+  }
+
+p {
+    color: #000;
+    text-decoration: none;
+}
+
+h2 a {
+    color: #000000;
+    text-decoration: none;
+}
+
+h2 a:hover {
+    text-decoration: underline;
+}
+
+.work-in-progress {
+    background-color: #ffcc00; /* Yellow background for visibility */
+    color: #000; /* Black text for contrast */
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.social-media {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-media-link img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+
+.social-media-link img:hover {
+    transform: scale(1.2);
+}
+
+
+/*
+.div {
+    color:#ffcc00;
+}
+    */

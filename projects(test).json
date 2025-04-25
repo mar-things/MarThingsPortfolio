@@ -1,0 +1,14 @@
+{
+  "projectId1": {
+    "title": "Project Name",
+    "image": "image-url.jpg",
+    "description": "Project description here.",
+    "labels": ["Robotics","Embedded Systems"]
+  },
+  "projectId2": {
+    "title": "Another Project",
+    "image": "another-image.jpg",
+    "description": "Another description.",
+    "labels": ["Embedded Systems", "Home Automation"]
+  }
+}
